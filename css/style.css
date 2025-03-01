@@ -115,7 +115,7 @@ h4 a,
 h5 a,
 h6 a {
     color: #212121;
-    text-decoration: none!important;
+    text-decoration: none !important;
     opacity: 1
 }
 
@@ -160,7 +160,7 @@ img {
     height: auto;
 }
 
- :focus {
+:focus {
     outline: 0;
 }
 
@@ -185,7 +185,7 @@ img {
 }
 
 .form-control:focus {
-    border-color: #ffffff !important;
+    border-color: #213963 !important;
     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
@@ -222,7 +222,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #f1f1f1;
     height: auto;
     padding-top: 15px;
     padding-bottom: 5px;
@@ -238,7 +238,7 @@ button {
     padding-right: 10px;
     padding-left: 10px;
     font-size: 18px;
-    color: #ffffff;
+    color: #213963;
 }
 
 .menu_text ul {
@@ -247,13 +247,13 @@ button {
 }
 
 .menu_text li a {
-    color: #ffffff;
+    color: #213963;
 }
 
 .banner_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #fffcf4;
     height: auto;
 }
 
@@ -261,7 +261,7 @@ button {
     position: absolute;
     left: 63%;
     top: 180px;
-    background-color: #fff;
+    background-color: #21396396;
     color: #000;
 }
 
@@ -269,7 +269,7 @@ button {
 #carouselExampleIndicators .carousel-control-next {
     width: 65px;
     height: 65px;
-    background: #fff;
+    background: #213963;
     opacity: 1;
     font-size: 30px;
     color: #091e30;
@@ -284,14 +284,14 @@ button {
     position: absolute;
     left: 64%;
     top: 270px;
-    background-color: #1a1824;
+    background-color: #1a18249c;
 }
 
 #carouselExampleIndicators .carousel-control-prev,
 #carouselExampleIndicators .carousel-control-next {
     width: 65px;
     height: 65px;
-    background: #fff;
+    background: #21396385;
     opacity: 1;
     font-size: 30px;
     color: #091e30;
@@ -343,15 +343,15 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #213963;
     font-weight: bold;
 }
 
 .building_text {
     width: 100%;
     float: left;
-    font-size: 90px;
-    color: #ffffff;
+    font-size: 50px;
+    color: #213963;
     font-weight: bold;
 }
 
@@ -359,7 +359,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #213963;
     margin-left: 0px;
 }
 
@@ -367,8 +367,8 @@ button {
     width: 35%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
-    border: 1px solid#ffffff;
+    color: #213963;
+    border: 1px solid#213963;
     border-radius: 5px;
     background-color: transparent;
     height: 50px;
@@ -379,7 +379,7 @@ button {
 }
 
 .contact_bt a {
-    color: #ffffff;
+    color: #213963;
 }
 
 .contact_bt a:hover {
@@ -390,8 +390,8 @@ button {
     width: 35%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
-    border: 1px solid#ffffff;
+    color: #213963;
+    border: 1px solid#213963;
     border-radius: 5px;
     background-color: transparent;
     margin-left: 20px;
@@ -403,7 +403,7 @@ button {
 }
 
 .get_bt a {
-    color: #ffffff;
+    color: #213963;
 }
 
 .get_bt a:hover {
@@ -427,7 +427,7 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #213963;
     font-weight: bold;
 }
 
@@ -435,7 +435,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #213963;
     margin-left: 0px;
 }
 
@@ -443,9 +443,9 @@ button {
     width: 40%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #213963;
     border-radius: 5px;
-    background-color: #e05306;
+    background-color: #f1f1f1;
     height: 50px;
     font-weight: bold;
     margin-top: 40px;
@@ -455,13 +455,13 @@ button {
 }
 
 .about_bt a {
-    color: #ffffff;
-    background-color: #e05306;
+    color: #213963;
+    background-color: #f1f1f1;
 }
 
 .about_bt a:hover {
     color: #000000;
-    background-color: #ffffff;
+    background-color: #213963;
 }
 
 .about_img {
@@ -472,7 +472,7 @@ button {
 .our_section {
     width: 100%;
     float: left;
-    background-color: #ffffff;
+    background-color: #78808e;
     height: auto;
 }
 
@@ -480,7 +480,7 @@ button {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #090a0b;
+    color: #f1f1f1;
     margin-left: 0px;
     text-align: center;
     font-weight: bold;
@@ -491,7 +491,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #090a0b;
+    color: #f1f1f1;
     margin-left: 0px;
     text-align: center;
 }
@@ -505,7 +505,7 @@ button {
 .project_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-4.png);
+    background-image: url(../images/14.png);
     height: auto;
     background-size: 100%;
     margin-top: 70px;
@@ -537,7 +537,7 @@ button {
 .choose_bt a {
     width: 18%;
     float: left;
-    background-color: #041d2c;
+    background-color: #041d2cae;
     color: #fffcf4;
     height: 50px;
     font-size: 17px;
@@ -547,13 +547,13 @@ button {
 }
 
 .choose_bt a {
-    color: #ffffff;
-    background-color: #041d2c;
+    color: #f1f1f1;
+    background-color: #041d2cae;
 }
 
 .choose_bt a:hover {
     color: #000;
-    background-color: #ffffff;
+    background-color: #213963;
 }
 
 .clients_section {
@@ -569,8 +569,8 @@ button {
     margin: 0 auto;
     text-align: center;
     font-size: 40px;
-    color: #0b0e13;
-    border-bottom: 1px solid #e05306;
+    color: #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
     text-align: center;
 }
 
@@ -579,7 +579,7 @@ button {
     font-size: 20px;
     color: #fffcf4;
     border-radius: 5px;
-    background-color: #041d2c;
+    background-color: #041d2cae;
     height: 50px;
     margin-top: 40px;
     padding-top: 7px;
@@ -589,12 +589,12 @@ button {
 
 .seemore_bt a {
     color: #fffcf4;
-    background-color: #041d2c;
+    background-color: #041d2cae;
 }
 
 .seemore_bt a:hover {
     color: #fffcf4;
-    background-color: #e05306;
+    background-color: #f1f1f1;
 }
 
 .padding_top_0 {
@@ -612,7 +612,7 @@ button {
     margin: 0 auto;
     text-align: center;
     font-size: 17px;
-    color: #040403;
+    color: #f1f1f1;
     text-align: center;
     padding-top: 40px;
 }
@@ -642,7 +642,7 @@ button {
 .henrry_taital {
     width: 100%;
     float: left;
-    color: #e07c06;
+    color: #213963;
     text-align: center;
     font-size: 18px;
     margin-left: 0px;
@@ -668,7 +668,7 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #f1f1f1;
     height: auto;
 }
 
@@ -730,7 +730,7 @@ textarea#comment.massage-bt::placeholder {
 .send_bt a {
     width: 30%;
     float: left;
-    background-color: #041d2c;
+    background-color: #041d2cae;
     color: #fffdf6;
     text-align: center;
     padding: 12px 0px;
@@ -741,18 +741,18 @@ textarea#comment.massage-bt::placeholder {
 
 .send_bt a {
     color: #fffdf6;
-    background-color: #041d2c;
+    background-color: #041d2cae;
 }
 
 .send_bt a:hover {
     color: #000;
-    background-color: #ffffff;
+    background-color: #213963;
 }
 
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #1c1d1d;
+    background-color: #444747;
     height: auto;
     margin-top: 80px;
     padding-bottom: 80px;
@@ -766,8 +766,8 @@ textarea#comment.massage-bt::placeholder {
 .input-group>.input-group-prepend:not(:first-child)>.input-group-text {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    background-color: #e05306;
-    color: #fff;
+    background-color: #f1f1f1;
+    color: #213963;
     border: 0px;
 }
 
@@ -780,7 +780,7 @@ textarea#comment.massage-bt::placeholder {
 
 .mb-3,
 .my-3 {
-    margin-bottom: 1rem!important;
+    margin-bottom: 1rem !important;
     width: 65%;
     margin: 0 auto;
 }
@@ -789,7 +789,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #ffffff;
+    color: #213963;
     padding-left: 175px;
 }
 
@@ -799,7 +799,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 30px;
     color: #fcf8f9;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #213963;
     padding-top: 25px;
 }
 
@@ -842,19 +842,19 @@ textarea#comment.massage-bt::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #f1f1f1;
 }
 
 .copyright_text {
     width: 100%;
     float: left;
     font-size: 14pt;
-    color: #ffffff;
+    color: #213963;
     text-align: center;
 }
 
 .copyright_text a {
-    color: #ffffff;
+    color: #213963;
 }
 
 .copyright_text a:hover {
@@ -953,7 +953,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 a {
-    color: #ffffff;
+    color: #213963;
     text-decoration: none;
     outline: none !important;
 }
