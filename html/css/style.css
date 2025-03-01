@@ -535,7 +535,7 @@ button {
 }
 
 .choose_bt a {
-    width: 18%;
+    width: 100%;
     float: left;
     background-color: #041d2cae;
     color: #fffcf4;
@@ -575,7 +575,7 @@ button {
 }
 
 .seemore_bt a {
-    width: 50%;
+    width: 100%;
     font-size: 20px;
     color: #fffcf4;
     border-radius: 5px;
@@ -728,7 +728,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .send_bt a {
-    width: 30%;
+    width: 100%;
     float: left;
     background-color: #041d2cae;
     color: #fffdf6;

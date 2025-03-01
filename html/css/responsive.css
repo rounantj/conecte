@@ -818,6 +818,10 @@
         text-align: center;
     }
 
+    #logo {
+        max-width: 150px;
+    }
+
     .btn-primary {
         max-width: 126px;
         margin-right: 2px;
@@ -938,7 +942,7 @@
     .toggle_menu {
         top: -68px;
         position: relative;
-        left: 240px;
+        left: 400px;
     }
 
     .menu_text {
@@ -1010,6 +1014,9 @@
 
     .seemore_bt {
         width: 100%;
+        min-width: 500px;
+        margin: auto;
+        margin-left: -150px;
     }
 
     .partner_text {
@@ -1022,7 +1029,11 @@
     }
 
     .choose_bt {
-        width: 65%;
+        width: 100%;
+    }
+
+    .choose_bt a {
+        width: 100%;
     }
 
     .project_section {

@@ -818,6 +818,10 @@
         text-align: center;
     }
 
+    #logo {
+        max-width: 150px;
+    }
+
     .btn-primary {
         max-width: 126px;
         margin-right: 2px;
@@ -938,7 +942,7 @@
     .toggle_menu {
         top: -68px;
         position: relative;
-        left: 240px;
+        left: 400px;
     }
 
     .menu_text {
